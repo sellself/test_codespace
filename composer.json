@@ -1,10 +1,8 @@
 {
-  "name": "laravel/lumen",
+  "name": "sellself/test",
   "description": "The Laravel Lumen Framework.",
   "keywords": [
-    "framework",
-    "laravel",
-    "lumen"
+    "test",
   ],
   "license": "MIT",
   "type": "project",
